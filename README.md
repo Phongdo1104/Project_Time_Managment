@@ -4,4 +4,4 @@
 <p>If you read to this part. Thank you for visiting my repository, I appreciated a lot :) (And appologize for my bad English, I'm still learning it :"> )</p>
 <hr>
 <h1>Instruction</h1>
-<p>Run file Time_management.pyw and you're good to go</p>
+<p>Run file <b>Time_management.pyw</b> and you're good to go</p>
